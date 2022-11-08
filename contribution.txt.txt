@@ -1,0 +1,8 @@
+Mahalaxmi Nemagoud
+
+
+EMS project: A fully fledged Employee management system,where as it contain models like emp management,timesheet,apraisal.
+             and also contain the departments,and report of all the models. we have admin login page.used tools like django web frame work,HTML,CSS.
+
+contribution: we made a fully fledged Emp management system, my contribution towards this project is of html part of all login pages 
+              and models and functions of employe management model.
